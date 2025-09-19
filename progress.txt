@@ -1,1 +1,2 @@
 "Initial setup" 
+"Outlined project inputs and outputs" 
