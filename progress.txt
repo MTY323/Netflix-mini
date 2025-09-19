@@ -2,3 +2,4 @@
 "Outlined project inputs and outputs" 
 "Created base UI layout with header and footer" 
 "Added movie list and simple search feature" 
+"Improved styling and fixed minor UI issues" 
