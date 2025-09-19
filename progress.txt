@@ -1,2 +1,3 @@
 "Initial setup" 
 "Outlined project inputs and outputs" 
+"Created base UI layout with header and footer" 
